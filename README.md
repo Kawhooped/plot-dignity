@@ -2,6 +2,8 @@
 
 **Provisional repo name.** The game is real. This is the board plot GPT / Comet / Grok share.
 
+**Team:** Grok is on this team (git writes + handoffs). Roster: [farm-board/TEAM.md](https://github.com/Kawhooped/farm-board/blob/dd-main/TEAM.md).
+
 Hold and sweep. Vacuum coins. Chain pickups. One HTML file. No ads. No account.
 
 ## Credit
@@ -37,7 +39,7 @@ Play Console: do **not** submit until Danny says.
 | Who | Do |
 |---|---|
 | ChatGPT | First prototype of the gathering-orbs game. Listing copy. GitHub write 403 = stop. |
-| Grok | Files, APK build, emulator. No Play submit. |
+| Grok | On the team. Files, APK build, emulator, handoffs. No Play submit. |
 | Comet | Open the repo in the browser. Confirm the page. |
 | Danny | itch login, payouts, publish, Play if ever. |
 
