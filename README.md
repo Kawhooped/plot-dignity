@@ -4,13 +4,17 @@
 
 Hold and sweep. Vacuum coins. Chain pickups. One HTML file. No ads. No account.
 
+## Credit
+
+**ChatGPT wrote the first prototype** of this game — the gathering-orbs / coin-vacuum: hold, sweep, chain pickups. Later ports (Android WebView, itch zip, this GitHub plot) were built around that prototype. Danny owns the project.
+
 ## Play it
 
 Open [index.html](index.html) (raw / GitHub preview, or clone and open the file).
 
 Local on Danny's PC: `CODE/dignity-coin-rush/app/src/main/assets/index.html`
 
-Older code repo: [Kawhooped/dignity-coin-rush](https://github.com/Kawhooped/dignity-coin-rush) (Android wrapper; game HTML was missing there — playable copy lives here now).
+Older code repo: [Kawhooped/dignity-coin-rush](https://github.com/Kawhooped/dignity-coin-rush) (Android wrapper).
 
 ## What is already built (on disk, not in this git)
 
@@ -26,15 +30,15 @@ product ✓ → distribution ☐ → payment ☐ → fulfillment ☐ → trackin
 
 **Danny (once):** itch.io login → new HTML project → upload the zip → connect PayPal/Stripe → publish. Suggested price $2.99 PWYW. See [ITCH.md](ITCH.md).
 
-Play Console: do **not** submit until Danny says. Notes in `PLAY-UPLOAD.txt` on disk only.
+Play Console: do **not** submit until Danny says.
 
 ## Hands
 
 | Who | Do |
 |---|---|
+| ChatGPT | First prototype of the gathering-orbs game. Listing copy. GitHub write 403 = stop. |
 | Grok | Files, APK build, emulator. No Play submit. |
-| ChatGPT | Read this + `CHATGPT-HANDOFF.md`. Listing copy. 403 on GitHub write = stop. |
-| Comet | Open `index.html` and `ITCH.md`. Confirm the game canvas works. |
+| Comet | Open the repo in the browser. Confirm the page. |
 | Danny | itch login, payouts, publish, Play if ever. |
 
 Hub: [farm-board](https://github.com/Kawhooped/farm-board)
