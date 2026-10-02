@@ -12,9 +12,11 @@ Hold and sweep. Vacuum coins. Chain pickups. One HTML file. No ads. No account.
 
 ## Play it
 
-Open [index.html](index.html) (raw / GitHub preview, or clone and open the file).
+Not in this git. No `index.html` on GitHub.
 
 Local on Danny's PC: `CODE/dignity-coin-rush/app/src/main/assets/index.html`
+
+itch zip: `CODE/dignity-coin-rush/dist/dignity-coin-rush-web.zip`
 
 Older code repo: [Kawhooped/dignity-coin-rush](https://github.com/Kawhooped/dignity-coin-rush) (Android wrapper).
 
@@ -24,7 +26,7 @@ Older code repo: [Kawhooped/dignity-coin-rush](https://github.com/Kawhooped/dign
 - Android WebView APK/AAB: `CODE/dignity-coin-rush/release/` (package `com.ddlab.dignitycoinrush`; debug id suffix `.debug`)
 - Emulator proof: game rendered on AVD `dignity_api34`
 
-**Not in git:** upload keystore, `local.properties`, APK/AAB binaries.
+**Not in git:** upload keystore, `local.properties`, APK/AAB binaries, playable `index.html`, itch zip.
 
 ## Money path (unfinished)
 
@@ -40,7 +42,7 @@ Play Console: do **not** submit until Danny says.
 |---|---|
 | ChatGPT | First prototype of the gathering-orbs game. Listing copy. GitHub write 403 = stop. |
 | Grok | On the team. Files, APK build, emulator, handoffs. No Play submit. |
-| Comet | Open the repo in the browser. Confirm the page. |
+| Comet | Open the repo in the browser. Confirm the page. Do not expect index.html on GitHub. |
 | Danny | itch login, payouts, publish, Play if ever. |
 
 Hub: [farm-board](https://github.com/Kawhooped/farm-board)
